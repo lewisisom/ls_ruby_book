@@ -1,0 +1,2 @@
+# README #
+# This repository is simply my practice excercices from Launch School's Introduction to Ruby book. This repo was made after already doing most of the book, so only some of the book's exercices are in here. The others may be scattered around or deleted, which is why I felt like I needed a better way to organize things. I will continue to try to be as organized as I can going foward.
